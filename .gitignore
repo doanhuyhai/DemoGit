@@ -1,6 +1,26 @@
+<<<<<<< HEAD
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+=======
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 575b695be1510c19802278e12ea9efdda07fa89d
